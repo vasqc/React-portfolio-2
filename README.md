@@ -1,1 +1,2 @@
 # React-portfolio-2
+Hello, My name is Christian Vasquez and I am a recent gradute of Rutgers Coding Bootcamp.    Welcome to portfolio where I will showcase, some of my strengths and likes, and give you a bit of insight into me!
